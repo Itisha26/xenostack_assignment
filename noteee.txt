@@ -1,0 +1,7 @@
+run command : -  pip install django
+
+
+>> python.exe manage.py runserver
+
+database id :- admin
+database passwd :- admin 
